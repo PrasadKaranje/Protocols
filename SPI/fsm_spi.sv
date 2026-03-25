@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module fsm_spi(
     input wire clk,
     input wire rst,
