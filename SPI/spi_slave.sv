@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module spi_slave (
 input sclk, mosi,cs,
 output [7:0] dout,
